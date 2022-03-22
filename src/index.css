@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+button{  
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid cadetblue;
+    padding:1rem 2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    background-color:cadetblue ;
+    color: #fff;
+}
+h1{
+  color: cadetblue;
+  font: 400 32px 'roboto';
+}
